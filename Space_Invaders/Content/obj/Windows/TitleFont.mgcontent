@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Sony/source/repos/Space_Invaders/Space_Invaders/Content/TitleFont.spritefont</SourceFile>
+  <SourceTime>2018-10-18T04:23:22.0696977-05:00</SourceTime>
+  <DestFile>C:/Users/Sony/source/repos/Space_Invaders/Space_Invaders/Content/bin/Windows/TitleFont.xnb</DestFile>
+  <DestTime>2018-10-18T04:24:44.1296576-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T09:05:36-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T09:05:36-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
